@@ -51,7 +51,7 @@ cd movie-watchlist
 - Improve **UI responsiveness** for smaller screens.  
 - Optimize **Watchlist storage** to store data as objects instead of HTML.  
 
-## Live site [https://bindekere-movie-watchlist.netlify.app/]
+## Live site URL: [Movie-Watchlist]-(https://bindekere-movie-watchlist.netlify.app/)
 
 ---
 
