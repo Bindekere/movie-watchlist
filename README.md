@@ -51,8 +51,7 @@ cd movie-watchlist
 - Improve **UI responsiveness** for smaller screens.  
 - Optimize **Watchlist storage** to store data as objects instead of HTML.  
 
-## 📜 License  
-This project is licensed under the **MIT License**.
+## Live site [https://bindekere-movie-watchlist.netlify.app/]
 
 ---
 
